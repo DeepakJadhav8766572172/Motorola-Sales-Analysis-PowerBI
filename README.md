@@ -18,7 +18,8 @@ This Power BI project analyzes Motorola sales data and provides business insight
 - Interactive Filters
 
 ## Dashboard Preview
-(Add screenshots below)
+<img width="1787" height="1046" alt="das 1" src="https://github.com/user-attachments/assets/75a50e40-0058-4176-8761-27b283184633" />
+
 
 ## Author
 Deepak Jadhav
